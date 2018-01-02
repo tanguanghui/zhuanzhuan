@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jxl-2.6.12.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hynnet/jxl/2.6.12.1/315cafb72f1b257e5d23ade5e83804c297af2e48/jxl-2.6.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hynnet/jxl/2.6.12.1/bfa59731fffb4388affa7540f8e8a4a690984637/jxl-2.6.12.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="iosswitch-0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/83fad9fa1ce143783794572bf070d8c55d61110a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/83fad9fa1ce143783794572bf070d8c55d61110a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.7heaven.ioswidget/iosswitch/0.6/f90049f5e72ba44a660db47e73236855cd57cf74/iosswitch-0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

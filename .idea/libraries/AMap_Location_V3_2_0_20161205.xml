@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AMap_Location_V3.2.0_20161205">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/citypicker/libs/AMap_Location_V3.2.0_20161205.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
